@@ -1,0 +1,6 @@
+print('Assalom alaykum')
+print('Vaalayku assalam!')
+print('Hayrli tun.')
+print(2+4*7)
+print(19/2)
+print(2**6)
